@@ -1,0 +1,64 @@
+-------Durham Region -------------
+Pickering,
+Ajax,
+Whitby
+Oshawa
+Uxbridge
+Brock
+Scugog
+Clarington
+--------Halton Region---------
+Halton hills
+Milton
+Oakville
+Burlington
+---- Peel Region
+Caledon
+Brampton
+Mississauga
+------Toronto Region-----
+Toronto and East York
+North York
+Etobicoke
+Scarborough
+-----York Region
+Vaughan
+Richmond Hill
+Markham
+Aurora
+Whitchurch-Stouffville
+King city
+Newmarket
+East Gwillimbury
+Georgina
+Maple
+Thornhill
+Woodbridge
+Unionville
+Concord
+Stouffville
+
+GTA = [
+X    "Toronto",
+X    "Mississauga",
+X    "Ajax",
+X    "Brampton",
+X    "Unionville",
+X    "Oakville",
+X    "Richmond Hill",
+X    "Markham",
+X    "Oshawa",
+X    "Whitby",
+X    "Caledon",
+X    "Pickering",
+X    "Maple",
+X    "Thornhill",
+X    "Woodbridge",
+X    "Aurora",
+X    "Vaughan",
+X    "Concord",
+X    "Stouffville",
+X    "Milton",
+X    "Newmarket",
+X    "King City",
+]
