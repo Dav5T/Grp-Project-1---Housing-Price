@@ -22,11 +22,13 @@ https://www.fraserinstitute.org/sites/default/files/ontario-elementary-school-ra
 https://www.fraserinstitute.org/sites/default/files/ontario-elementary-school-rankings-2020-13385.pdf
 GTA region
 https://www.ureachtoronto.ca/city-services/
-Data Cleaning:
+
+Data Cleaning:<br /><br />
 For the GTA Census 2021 data, the csv file was downloaded from the source website. 
 The GTA housing price was downloaded as a PDF file by month in different years, then we manually cleaned the data into a csv file.  
 GTA School Ranking data was download in csv file by year from the data source 
 We used Pandas to clean and format all the datasets. We have created multiple Jupyter Notebooks for data exploration and cleanup processes. All raw data files, and cleaned datasets are stored in this repository separately. Moreover,  all presentation distributed graphs have been saved in this repository separately as well.<br />
+
 **Key Findings:** <br /><br />
 By analysing Census 2021 data, we see that the population and the dwellings numbers in GTA have both grown. From comparing the Census 2016 data, we could see the dwelling percentage change is higher than the population percentage change in Toronto, York, and Peel. When excluding public dwellings, and counting in population density, we could see that population density and private dwelling numbers are in a positive relationship. <br /><br />
 The housing prices have been increasing through 2018-2021, but the housing prices in Toronto, York, Halton has dropped in 2020. With COVID work-from-home policy, we could see people have taken this opportunity to pursue cheaper housing. Based on the analysis of the average sold price and the number of houses sold in each month of 2021, we draw a graph to understand the relationship between housing supplies and demand. It showed that the equilibrium point between housing supplies and demands is 14,007 sold houses with the average price of $989,172. The data is showing the housing market is a seller’s market. For all the points, that are above the equilibrium point, means the housing market is in excess supply.<br /><br />
@@ -41,10 +43,10 @@ One factor we assumed will affect housing prices in GTA is school ranking. From 
 
 In conclusion, we would highlight that the most important contributing factors to housing prices are population growth and regional demands. School ranking is one attribute among the regional demands. Our research suggests that there could be other contributing factors, such as proximity to amenities, employment opportunities, or access to culture and communities, for the rising housing prices. <br /><br />
 
-Team Member:
-Darvy Teav
-Arefin Shamsil
-Wei Zhang
+Team Member:<br /><br />
+Darvy Teav<br /><br />
+Arefin Shamsil<br /><br />
+Wei Zhang<br /><br />
 ![dwelling_density](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/10fbe366-3c4e-4632-a210-1017435a6694)
 
 ![Private_dwellings_by_residents](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/615f5850-d7f8-4f29-a999-bad73f2b7e7c)
