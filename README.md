@@ -1,5 +1,5 @@
-***Housing in GTA** 
-Project Introduction:(required)
+**Housing in GTA** 
+<br> **Project Introduction:(required)**
 What factors contribute to housing prices within the different regions of GTA?
 People always consider buying a house as an excellent investment. And the GTA housing market has always been optimistic, even during COVID. But with the burgeoning population, people are worried about affordable housing. The following general questions come to mind:
 How population density is influencing dwelling numbers?
@@ -39,6 +39,7 @@ Team Member:(required)
 Darvy Teav
 Arefin Shamsil
 Wei Zhang
+
 ![dwelling_density](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/10fbe366-3c4e-4632-a210-1017435a6694)
 
 ![Private_dwellings_by_residents](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/615f5850-d7f8-4f29-a999-bad73f2b7e7c)
