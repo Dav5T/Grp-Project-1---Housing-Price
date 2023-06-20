@@ -99,13 +99,12 @@ Wei Zhang<br /><br />
 
 ![Total_Supply_Demand](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/b7c655de-cf7a-477a-9627-66430c2c5c7f)
 
-![Fig - school score 2018](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/c311731a-2e19-4df9-8199-df7ce1e66199)
+![Fig - school score 2018](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/acc23ed0-4184-4902-a461-2efc3a6f0f5e)
 
-![Fig - school score 2019](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/1fbdbb7e-ff98-432e-9996-d9de628d8927)
+![Fig - school score 2019](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/cbff9b37-5c2b-4c7d-9482-ce9ee313255d)
 
-![Fig - school score 2020](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/ea90fcc4-6038-4547-84f1-c6f9f48f75a4)
+![Fig - school score 2020](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/2020efaf-c7b4-4f3a-8ea8-0409bfec4597)
 
-![School-price-sales](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/a0b0fa6c-aacf-4243-a3a1-53aaff841429)
-
+![School-price-sales](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/2dade412-22d2-4442-9b7f-b388fd10d8ad)
 
 
