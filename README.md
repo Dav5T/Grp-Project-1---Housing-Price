@@ -31,10 +31,13 @@
 <br>https://www.fraserinstitute.org/sites/default/files/ontario-elementary-school-rankings-2020-13385.pdf
 <br>-GTA region
 <br>https://www.ureachtoronto.ca/city-services/
+<br>-Geoapify
+<br>https://apidocs.geoapify.com/docs/places/#about
 
 <br>**Data Cleaning:**
 <br><br>For the GTA Census 2021 data, the csv file was downloaded from the source website. 
 <br><br>The GTA housing price was downloaded as a PDF file by month in different years. We had to convert each pdf into an Excel file. Since it did not properly convert all the time, we had to scan through some of the data and manually fix a few. Once that was completed, we aggregated all the files into one csv file for all of us to use. In order to merge our data for our project, we all used the data on average house price and regions of the GTA. 
+<br><br>We also Geoapify to gather the longitutde and latitude of each region to create a visual image of the GTA based on the average housing price of 2021
 <br><br>GTA School Ranking data was download in csv file by year from the data source 
 We used Pandas to clean and format all the datasets. We have created multiple Jupyter Notebooks for data exploration and cleanup processes. All raw data files, and cleaned datasets are stored in this repository separately. Moreover, all presentation distributed graphs have been saved in this repository separately as well.
 
