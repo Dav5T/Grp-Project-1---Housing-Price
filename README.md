@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Housing in GTA** 
 <br> **Project Introduction:(required)**
 What factors contribute to housing prices within the different regions of GTA?
@@ -12,7 +11,7 @@ Housing demands
 Housing supplies
 School ranking and housing choice
 Data Source:(not required in README)
-=======
+
 **Housing in GTA** <br />
 Project Introduction:<br />
 What factors contribute to housing prices within the different regions of GTA?<br />
@@ -28,7 +27,7 @@ Housing supplies<br />
 School ranking and housing choice<br />
 
 Data Source:<br /><br />
->>>>>>> 7e7134d70043f9cadd97a736e9dff7e57fcafa4a
+
 Census 2021  Population and Dwellings https://data.peelregion.ca/datasets/RegionofPeel::census-2021-cd-csd-population-and-dwellings/about 
 GTA Housing price between 2018-2021
 https://trreb.ca/index.php/market-news/mls-home-price-index/mls-home-price-index-archive
@@ -45,7 +44,7 @@ The GTA housing price was downloaded as a PDF file by month in different years, 
 GTA School Ranking data was download in csv file by year from the data source 
 We used Pandas to clean and format all the datasets. We have created multiple Jupyter Notebooks for data exploration and cleanup processes. All raw data files, and cleaned datasets are stored in this repository separately. Moreover,  all presentation distributed graphs have been saved in this repository separately as well.<br />
 
-<<<<<<< HEAD
+
 One factor we assumed will affect housing prices in GTA is school ranking. From the available data, we compiled elementary school ranking distributions between 2018 to 2020 in GTA. The overall area-wise ranking distributions were quite similar over the years. The consistent best rankings were observed in the Halton and the York regions while the poorer rankings were observed in the Toronto, Peel and Durham regions. A correlation test between the area-wise housing prices and the corresponding school rankings showed a very weak negative correlation over the years. It could indicate that elementary school rankings may not have an effect on the housing market. However, we found that housing price, sales volume and school ranking all have wider distributions in the Toronto, Peel and Durham regions generating a large number of outliers. This could have affected the correlations. Finally, conducting a trend analysis combining area-wise school ranking, sale price and sale volume, we find that there is a greater preference for purchasing houses in the Toronto, Peel and Durham regions, despite them having lower school rankings.
 In conclusion, we would highlight that the most important contributing factors to housing prices are population growth and regional demands. School ranking is one attribute among the regional demands. Our research suggests that there could be other contributing factors, such as proximity to amenities, employment opportunities, or access to culture and communities, for the rising housing prices.
 Team Member:(required)
@@ -72,7 +71,7 @@ Team Member:<br /><br />
 Darvy Teav<br /><br />
 Arefin Shamsil<br /><br />
 Wei Zhang<br /><br />
->>>>>>> 7e7134d70043f9cadd97a736e9dff7e57fcafa4a
+
 ![dwelling_density](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/10fbe366-3c4e-4632-a210-1017435a6694)
 
 ![Private_dwellings_by_residents](https://github.com/Dav5T/Grp-Project-1---Housing-Price/assets/130593953/615f5850-d7f8-4f29-a999-bad73f2b7e7c)
